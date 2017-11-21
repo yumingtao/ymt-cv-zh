@@ -1,22 +1,43 @@
-# 个人信息
+## 个人信息
 
  - 于明涛/男/1983 
  - 本科/兰州交通大学信息与计算可续 
  - 工作年限：11+年
- - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
- - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
- - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
-
  - 期望职位：Java高级程序员，架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
+
+## 教育背景
+ - 兰州交通大学，信息与计算科学，本科
+
+## 个人介绍
+ - 熟悉Java，Java web应用程序开发，熟悉J2EE核心技术; 
+ - 熟悉Spring core，Spring MVC，Struts2，Hibernat，iBatis/mybatis等框架; 
+ - 熟悉Spring batch，Spring boot，Spring Cloud； 
+ - 熟悉sqlserver，oracle，mysql，DB2等数据库; 
+ - 熟悉 json，ajax等; 
+ - 熟悉extjs，jquery，jquerymobile,node.js; 
+ - 熟悉WebLogic，JBoss，WebSphere，tomcat等； 
+ - 熟悉maven，gradle； 
+ - 熟悉SVN，Git； 
+ - 熟悉jenkins； 
+ - 熟悉 worklight手机应用程序开发; 
+ - 了解MongoDB; 
+ - 具有较强的问题定位与解决能力; 
+ - 具有较强的沟通能力和良好的团队合作精神; 
+ - 具有较强的责任心 
 
 ---
 
-# 工作经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+## 工作经历
 
-## ABC公司 （ 2012年9月 ~ 2014年9月 ）
+### DXC Technology （ 2015年10月 ~ 至今 ）
+
+### IBM （ 2012年9月 ~ 2015年9月 ）
+
+### 华为技术有限公司 （ 2011年9月 ~ 2012年9月 ）
+
+### 武汉中地数码科技有限公司 （ 2006年7月 ~ 2011年9月 ）
+
+## 项目经验
 
 ### DEF项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
@@ -56,18 +77,6 @@
  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
 
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
-
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
- - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
-
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
@@ -98,108 +107,6 @@
 - hibernate(169)
 - html(139)
 - tomcat(132)
-- struts(128)
-- jquery(116)
-- jsp(106)
-- ajax(96)
-- css(94)
-- ibatis(84)
-- mvc(77)
-- servlet(71)
-- xml(70)
-- js(62)
-- eclipse(51)
-- mybatis(51)
-- jboss(47)
-- struts2(47)
-- weblogic(46)
-- redis(46)
-- apache(45)
-- http(44)
-- shell(39)
-- python(38)
-- hadoop(37)
-- nosql(35)
-- ssh(35)
-- sqlserver(33)
-- mongodb(33)
-- svn(32)
-- uml(32)
-- json(27)
-- unix(27)
-- maven(27)
-- nginx(26)
-- webservice(25)
-- jdbc(24)
-- memcached(23)
-- tcp(22)
-- resin(22)
-- jvm(21)
-- socket(21)
-- db2(19)
-- springmvc(19)
-- websphere(16)
-- soa(16)
-- mina(14)
-- android(14)
-- extjs(13)
-- erp(12)
-- memcache(12)
-- api(11)
-- jetty(11)
-- myeclipse(11)
-- ext(10)
-- git(10)
-- jpa(10)
-- svm(9)
-- php(9)
-- jms(9)
-- ruby(9)
-- lucene(8)
-- html5(8)
-- postgresql(8)
-- crm(7)
-- javaee(7)
-- sybase(7)
-- freemarker(6)
-- cache(6)
-- jsf(6)
-- j2se(6)
-- jbpm(6)
-- cvs(6)
-- junit(6)
-- visio(6)
-- netty(6)
-- hbase(6)
-- nio(6)
-- powerdesigner(6)
-- oo(6)
-- aop(6)
-- workflow(5)
-- restful(5)
-- ios(5)
-- ant(5)
-- mssql(5)
-- orm(5)
-- rose(5)
-- solr(5)
-- webwork(5)
-- zookeeper(4)
-- soap(4)
-- o2o(4)
-- wap(4)
-- cxf(4)
-- thrift(4)
-- xmpp(3)
-- p2p(3)
-- javabean(3)
-- jee(3)
-- hdfs(3)
-- dom(3)
-- hibernate3(3)
-
-
-
 
 ---
 
