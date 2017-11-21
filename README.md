@@ -1,5 +1,6 @@
 ## 中文简历
-[Link](./CN.md)
+[简历](./CN.md)
+[Resume](./EN.md)
 
 ## 英文简历
 
