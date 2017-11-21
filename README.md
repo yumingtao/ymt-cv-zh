@@ -1,13 +1,10 @@
 ## 中文简历
 [简历](./CN.md)
-[Resume](./EN.md)
+
+[简历_PDF](./CN_PDF.PDF)
 
 ## 英文简历
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+[Resume](./EN_.md)
 
 # Header 1
 ## Header 2
